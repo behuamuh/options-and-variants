@@ -1,0 +1,45 @@
+{
+    "variants": [
+        {
+            "selectedOptions": [
+                "s",
+                "red"
+            ]
+        },
+        {
+            "selectedOptions": [
+                "s",
+                "blue"
+            ]
+        },
+        {
+            "selectedOptions": [
+                "m",
+                "red"
+            ]
+        },
+        {
+            "selectedOptions": [
+                "l",
+                "blue"
+            ]
+        }
+    ],
+    "options": [
+        {
+            "name": "size",
+            "variants": [
+                "s",
+                "m",
+                "l"
+            ]
+        },
+        {
+            "name": "color",
+            "variants": [
+                "red",
+                "blue"
+            ]
+        }
+    ]
+}
